@@ -263,12 +263,11 @@ This dashboard enables Uber stakeholders to:
 
 ## 👤 Author
 
-**Pralhad Balaji Jadhav**  
-Aspiring Data Analyst | Power BI | Data Analytics  
+**Om Madhavi**  
+Data Analyst | Power BI | Data Analytics  
 
 📌 GitHub Repository:  
-https://github.com/parlhad/Uber_Power-BI_Project
-
+[https://github.com/Omyash19/uber.git]
 ---
 
 ## 📎 Note
